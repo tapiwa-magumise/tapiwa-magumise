@@ -2,6 +2,8 @@
 
 Cloud engineer in Harare, Zimbabwe. AWS Certified Solutions Architect and Developer (Associate). I spent almost three years moving 9 hospitals off paper records and onto AWS, and I now run [PayCanary](https://paycanary.io), a risk monitoring product for Stripe merchants.
 
+My portfolio site, with case studies of all nine projects and my CV: [gumagatsby.github.io/portfolio](https://gumagatsby.github.io/portfolio/)
+
 Each project below has an architecture diagram, the design decisions with their trade-offs, and results measured by the code in the repo.
 
 **Foundations and security**
